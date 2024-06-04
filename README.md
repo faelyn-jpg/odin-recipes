@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to create a basic HTML website to explore my knowledge of HTML language. Once I have completed this project, I will have demonstrated how to add and resize images, add links, and create ordered lists to a project.
