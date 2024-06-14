@@ -1,0 +1,22 @@
+h1 {
+    color:#490f0f ;
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.body-text {
+    font-size: 24px;
+    font-family: 'Courier New', Arial, sans-serif
+}
+.flavor-text {
+    background-color: rgb(230, 172, 118);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.micro { 
+    background-color: bisque;
+}
+
+.heading {
+    font-size: 26px;
+    background-color: rgba(255, 235, 205, 0.795);
+}
