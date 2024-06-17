@@ -1,12 +1,13 @@
 h1 {
     color:#490f0f ;
     background-color: pink;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .body-text {
     font-size: 24px;
-    font-family: 'Courier New', Arial, sans-serif
+    font-family: 'Courier New', Arial, sans-serif;
 }
 .flavor-text {
     background-color: rgb(230, 172, 118);
@@ -19,4 +20,16 @@ h1 {
 .heading {
     font-size: 26px;
     background-color: rgba(255, 235, 205, 0.795);
+}
+.list {
+    background:rgb(211, 169, 159);
+    width: 500px;
+    margin: 8px auto;
+    padding: 8px; 
+
+}
+.button {
+    width: 300px;
+    background: pink;
+    border: dotted #490f0f;
 }
